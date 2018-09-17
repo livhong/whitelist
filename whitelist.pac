@@ -203,6 +203,7 @@ var white_domains = {"am":{
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"shumo":1,
 "githubapp":1,
 "139cm":1,
 "github":1,
