@@ -206,8 +206,7 @@ var white_domains = {"am":{
 "superlearn",
 "shumo":1,
 "githubapp":1,
-"139cm":1,
-"github":1,
+"139cm":1
 "0-6":1,
 "0001688":1,
 "001cndc":1,
