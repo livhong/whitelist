@@ -203,6 +203,7 @@ var white_domains = {"am":{
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"webofknowledge":1,
 "superlearn":1,
 "shumo":1,
 "githubapp":1,
