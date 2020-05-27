@@ -203,6 +203,8 @@ var white_domains = {"am":{
 "xiapu":1,
 "ychdzx":1
 },"com":{
+"sciencedirect":1,
+"sciencedirectassets":1,
 "github":1,
 "jianshu":1,
 "webofknowledge":1,
